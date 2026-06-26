@@ -1,9 +1,4 @@
 # kobakhan.github.io
-# Il mio Archivio Universitario
-Benvenuti nel mio sito. Qui raccolgo i miei appunti, analisi e file.
-
-## Ultimi Inserimenti
-* **Analisi 1:** Considerazioni sulla termodinamica.
-* **Tesi:** Bozza del capitolo introduttivo.
-
-Questo è un blog volutamente essenziale, senza fronzoli.
+# Koba-Khan
+Sito creato a scopo di esercitazione, just for fun, volevo imparare a "programmare"
+Utilizzo anche per arcchivio, daje roma daje
