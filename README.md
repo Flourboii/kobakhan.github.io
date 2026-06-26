@@ -2,4 +2,4 @@
 # Koba-Khan
 Sito creato a scopo di esercitazione, just for fun, volevo ritornare a "programmare"
 
-**Home** | [Archivio Università](ArchivioUniversità.md)
+[Archivio Università](ArchivioUniversità.md)
